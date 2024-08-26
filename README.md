@@ -22,7 +22,7 @@ This project aims to analyze the maturity of okra plants using thermal imaging a
 
 ## Usage
 
-1. **Train the model (Optional):**
+1. **Train the model :**
 
    ```bash
    python okra_model_trainer.py
